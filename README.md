@@ -29,6 +29,7 @@ The training dataset is in .csv format.
   - 23 features (Degrees, Work Experience, Political Activities, Social Media Activities, etc.)
 
 ## Experiment
+- Perfomred data preprocessing (e.g. converted Yes/No boolean features to integer boolean representation).
 - Perfomred feature selection by removing features with an absolute correlation with the corresponding risk score below a threshold (0.001).
 - Performed 80%/10%/10% Train Validation Test Split.
 - Conducted risk score prediction using 3 different prediction models.
