@@ -34,7 +34,7 @@ The training dataset is in .csv format.
 - Performed 80%/10%/10% Train Validation Test Split.
 - Conducted risk score prediction using 3 different prediction models.
 - Applied Gaussian noise as a data augmentation technique.
-- Tuned hyperparameters (batch size, learning rate, epochs, hidden dim & number of models for ensemble learning).
+- Tuned hyperparameters (batch size, learning rate, epochs, hidden dim & number of models for ensemble learning) - heuristic.
 
 ## Experimental Results
 - Achieved 85 ~ 88% prediction accuracy on test data.
