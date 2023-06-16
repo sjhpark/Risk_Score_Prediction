@@ -3,7 +3,7 @@
 PyTorch and PyTorch Lightning Implementations of Risk Score Prediction for Human Due Diligence.
 
 ## Abstract
-Human due diligence is a key assessment to be served to client companies before they invest in another company or hire individuals for following reasons (and many more).
+Human due diligence is a crucial assessment that should be provided to client companies before they invest in another company or hire individuals. This assessment serves several purposes, among which are the following (and many more):
 - Uncovering capability gaps
 - Analyzing points of friction
 - Finding out differences in decision making
