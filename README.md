@@ -25,7 +25,7 @@ The training dataset is in .csv format.
 - 2,000 training data
 - Each data contains:
   - Name
-  - Risk Scores (1 to 5)
+  - Risk score (1 to 5)
   - 23 features (Degrees, Work Experience, Political Activities, Social Media Activities, etc.)
 
 ## Experiment
